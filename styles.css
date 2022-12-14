@@ -1,6 +1,15 @@
+
 .holder{
-    border: 2px solid black;
     display: flex;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.flex-container{
+    display: flex;
+    border: 2px solid black;
     background-color: antiquewhite;
     justify-content: space-between;
     flex-wrap: wrap;
