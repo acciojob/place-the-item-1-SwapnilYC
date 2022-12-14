@@ -1,2 +1,14 @@
+.flex-container{
+    border: 2px solid black;
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
+.flex-item{
+    border: 2px solid black;
+    padding: 75px;
+    background-color:aquamarine;
+}
 /* Your CSS Code here. */
